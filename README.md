@@ -1,0 +1,3 @@
+Yuvee
+Yuvee is a smart wristband that tracks UV radiation and alerts the wearer when the radiation level is too high to be exposed to the sun. Users can also monitor when they need to reapply sunscreen as the wristband has a built-in alarm to remind them. Radiation levels are updated in real time using OpenMeteo API, so the information is always accurate, no matter where you are.
+In terms of components, the wristband was created using: an Arduino Nano RP2040 Connect, a photodiode (UV sensor), a light sensor (light divider with a photoresistor), a buzzer, red, yellow and green LEDs for different levels of UV radiation.
